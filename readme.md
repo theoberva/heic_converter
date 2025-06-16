@@ -123,12 +123,6 @@ The application includes several configurable options:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
-
-- [Streamlit](https://streamlit.io/) - For the amazing web app framework
-- [Pillow](https://python-pillow.org/) - For image processing capabilities
-- [pillow-heif](https://github.com/bigcat88/pillow_heif) - For HEIC/HEIF support
-
 ## 🔄 Changelog
 
 ### v1.0.0
