@@ -118,17 +118,6 @@ The application includes several configurable options:
 - **Storage**: Temporary space for processing (2x input file size)
 - **Browser**: Modern browser with JavaScript enabled
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
-
-### Development Setup
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ## 📝 License
 
@@ -139,14 +128,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Streamlit](https://streamlit.io/) - For the amazing web app framework
 - [Pillow](https://python-pillow.org/) - For image processing capabilities
 - [pillow-heif](https://github.com/bigcat88/pillow_heif) - For HEIC/HEIF support
-
-## 📞 Support
-
-If you encounter any problems or have suggestions, please:
-
-1. Check the [Issues](https://github.com/yourusername/heic-converter/issues) page
-2. Create a new issue if your problem isn't already reported
-3. Provide detailed information about your system and the error
 
 ## 🔄 Changelog
 
